@@ -1,4 +1,4 @@
-# Análisis de Deserción en la Federación Colombiana de Esgrima (2020–2024)
+# Análisis de Deserción en la Federación Colombiana de Esgrima (2020–2025)
 
 Este repositorio contiene el proyecto completo de Business Analytics enfocado en analizar y predecir la deserción de deportistas de la categoría de mayores dentro de la Federación Colombiana de Esgrima.  
 El análisis combina **web scraping, ETL, EDA, modelos predictivos y visualización**, integrando Python, BigQuery y Power BI.
