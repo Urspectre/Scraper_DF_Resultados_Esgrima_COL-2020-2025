@@ -63,7 +63,7 @@ Incluye:
 - Las armas con mayor deserción: florete y sable.  
 - Las ligas con más deserción: Cesar, Santander, Panamá.
 
-## 🛠 Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Python  
 - Pandas / NumPy  
